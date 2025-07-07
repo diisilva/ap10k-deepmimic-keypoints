@@ -1,9 +1,9 @@
 # Classificação e Visualização de Keypoints com AP-10K e RESNET-18
 
 Detecção de Esqueleto de Cães para DeepMimic
-Problema: Extrair automaticamente poses (esqueletos) de cães em imagens usando IA.
+Problema: Extrair automaticamente articulações (keypoints) de cães em imagens usando IA.
 Objetivo do projeto: Criar um modelo de visão computacional capaz de identificar pontos-chave (articulações) no corpo de cães.
-Aplicação: Os esqueletos detectados serão usados como base de dados de movimentos caninos para o sistema DeepMimic (simulação física + RL) imitar esses movimentos.
+Aplicação: Os keypoints detectados serão usados como base de dados de movimentos caninos para o sistema DeepMimic (simulação física + RDL) imitar esses movimentos.
 
 ## Conteúdo do repositório
 
