@@ -1,4 +1,4 @@
-# Classificação e Visualização de Keypoints com AP-10K e HRNet
+# Classificação e Visualização de Keypoints com AP-10K e RESNET-18
 
 Detecção de Esqueleto de Cães para DeepMimic
 Problema: Extrair automaticamente poses (esqueletos) de cães em imagens usando IA.
